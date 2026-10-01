@@ -1,3 +1,10 @@
+# KTXGo Project - MSSV: 23729031
+
+## Ảnh minh chứng giao diện (Screenshots)
+![Home Screen](./screenshots/screen1.png)
+![Cart Screen](./screenshots/screen2.png)
+![Me Screen](./screenshots/Screen3.png)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
